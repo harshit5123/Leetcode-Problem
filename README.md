@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
