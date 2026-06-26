@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Counting
+|  |
+| ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
