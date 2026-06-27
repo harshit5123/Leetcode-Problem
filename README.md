@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -70,5 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/harshit5123/Leetcode-Problem/tree/master/0443-string-compression) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
