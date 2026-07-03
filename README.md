@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/harshit5123/Leetcode-Problem/tree/master/0443-string-compression) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit5123/Leetcode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/harshit5123/Leetcode-Problem/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3689-maximum-total-subarray-value-i) |
