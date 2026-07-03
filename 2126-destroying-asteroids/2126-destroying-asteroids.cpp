@@ -5,10 +5,12 @@ public:
         int n=asteroids.size();
         sort(asteroids.begin(),asteroids.end());
         for(int i=0;i<n;i++){
-            if(Mass<asteroids[i]){
+            if(Mass>=asteroids[i]){
+                Mass+=asteroids[i];
+            }
+            else {
                 return false;
             }
-              Mass+=asteroids[i];
         }
         return true;
     }
