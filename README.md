@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/harshit5123/Leetcode-Problem/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/harshit5123/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
