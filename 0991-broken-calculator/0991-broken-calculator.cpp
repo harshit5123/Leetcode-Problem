@@ -6,7 +6,7 @@ public:
         if (target==startValue) break;
 
         if (target%2==0){
-            if (startValue>target) target+=1;
+            if (startValue>target) return minsteps+(startValue-target);
             else target=target/2;
         }
         else target+=1;
