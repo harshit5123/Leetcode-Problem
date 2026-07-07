@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
 ## Backtracking
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/harshit5123/Leetcode-Problem/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3689-maximum-total-subarray-value-i) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Sliding Window
