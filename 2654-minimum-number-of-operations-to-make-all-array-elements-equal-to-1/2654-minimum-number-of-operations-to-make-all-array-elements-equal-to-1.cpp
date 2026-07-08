@@ -4,7 +4,7 @@ public:
 
         int n=nums.size();
         int cnt1=0;
-        int min_op=1000;
+        int min_op=1e9;
         for (int i=0;i<n;i++){
             if (nums[i]==1) cnt1++;
             int g=nums[i];
@@ -16,7 +16,7 @@ public:
                 }
             }
         }
-        if (min_op==1000) return -1;
+        if (min_op==1e9) return -1;
         return min_op-cnt1;
     }
 };
