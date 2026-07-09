@@ -8,14 +8,14 @@ public:
         int moves=0;
         int moves2=0;
         while(i<s){
-            while(colors[i]=='A'){
+            while(i<s && colors[i]=='A'){
                 cntA++;
                 i++;
 
             }
             if(cntA>2) moves+=cntA-2;
             cntA=0;
-            while(colors[i]=='B') {
+            while(i<s && colors[i]=='B') {
                 
                 cntB++;
                 i++;
