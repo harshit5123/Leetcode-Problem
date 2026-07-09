@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/harshit5123/Leetcode-Problem/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/harshit5123/Leetcode-Problem/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshit5123/Leetcode-Problem/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
