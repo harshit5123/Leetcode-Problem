@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/harshit5123/Leetcode-Problem/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/1323-maximum-69-number) |
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshit5123/Leetcode-Problem/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit5123/Leetcode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2126-destroying-asteroids](https://github.com/harshit5123/Leetcode-Problem/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/harshit5123/Leetcode-Problem/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
