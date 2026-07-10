@@ -22,15 +22,13 @@ public:
         }
 
         if (n1+n2!=target) return {-1,-1};
+        int ind1=-1;
+        int ind2=-1;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]==n1) ans.insert(i);
-            if(nums[i]==n2) ans.insert(i);
+            if (ind1==-1 && (nums[i]==n1 || nums[i]==n2)) ind1=i;
+            if (ind1!=-1 && (nums[i]==n1 || nums[i]==n2)) ind2=i;
         }
 
-        vector<int>res;
-        for (auto el:ans){
-            res.push_back(el);
-        }
-        return res;
+        return {ind1,ind2};
     }
 };
