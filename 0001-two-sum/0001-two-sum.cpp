@@ -26,7 +26,7 @@ public:
         int ind2=-1;
         for(int i=0;i<nums.size();i++){
             if (ind1==-1 && (nums[i]==n1 || nums[i]==n2)) ind1=i;
-            if (ind1!=-1 && (nums[i]==n1 || nums[i]==n2)) ind2=i;
+            else if (ind1!=-1 && (nums[i]==n1 || nums[i]==n2)) ind2=i;
         }
 
         return {ind1,ind2};
