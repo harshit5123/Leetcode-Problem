@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harshit5123/Leetcode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1399-count-largest-group](https://github.com/harshit5123/Leetcode-Problem/tree/master/1399-count-largest-group) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshit5123/Leetcode-Problem/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0029-divide-two-integers) |
 | [0991-broken-calculator](https://github.com/harshit5123/Leetcode-Problem/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/1323-maximum-69-number) |
+| [1399-count-largest-group](https://github.com/harshit5123/Leetcode-Problem/tree/master/1399-count-largest-group) |
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1399-count-largest-group](https://github.com/harshit5123/Leetcode-Problem/tree/master/1399-count-largest-group) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshit5123/Leetcode-Problem/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
