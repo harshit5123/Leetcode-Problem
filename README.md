@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/harshit5123/Leetcode-Problem/tree/master/0134-gas-station) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
+| [0766-toeplitz-matrix](https://github.com/harshit5123/Leetcode-Problem/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/harshit5123/Leetcode-Problem/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Counting
