@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2256-minimum-average-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2256-minimum-average-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Simulation
+|  |
+| ------- |
+| [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
 <!---LeetCode Topics End-->
