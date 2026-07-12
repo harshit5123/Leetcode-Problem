@@ -4,19 +4,16 @@ public:
         int n = nums.size();
         int m = queries.size();
         sort(nums.begin(),nums.end());
+        vector<int>pref(n,0);
+        pref[0]=nums[0];
+        for (int i=1;i<n;i++){
+            pref[i]=nums[i]+pref[i-1];
+        }
         vector<int> ans;
         for (int i = 0; i < m; i++) {
-            long long sum = queries[i];
-            long long querysum = 0;
-            int cnt = 0;
-
-            for (int j = 0; j < n; j++) {
-                if (querysum + nums[j] <= sum) {
-                    querysum += nums[j];
-                    cnt += 1;
-                }
-            }
-            ans.push_back(cnt);
+            int sum=queries[i];
+            int ind=upper_bound(pref.begin(),pref.end(),sum)-pref.begin();
+            ans.push_back(ind);
         }
         return ans;
     }
