@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/harshit5123/Leetcode-Problem/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0766-toeplitz-matrix](https://github.com/harshit5123/Leetcode-Problem/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshit5123/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/harshit5123/Leetcode-Problem/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
