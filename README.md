@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Linked List
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Game Theory
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Graph Theory
 |  |
 | ------- |
