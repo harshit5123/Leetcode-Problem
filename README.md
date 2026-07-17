@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/harshit5123/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/harshit5123/Leetcode-Problem/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
