@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/harshit5123/Leetcode-Problem/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Simulation
