@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
+| [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshit5123/Leetcode-Problem/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3689-maximum-total-subarray-value-i) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/harshit5123/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 ## Simulation
 |  |
 | ------- |
