@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2256-minimum-average-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
 ## Stack
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
+| [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshit5123/Leetcode-Problem/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/harshit5123/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 ## Simulation
 |  |
