@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0991-broken-calculator](https://github.com/harshit5123/Leetcode-Problem/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/1323-maximum-69-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
 ## Divide and Conquer
