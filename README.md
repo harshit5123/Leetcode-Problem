@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2256-minimum-average-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/harshit5123/Leetcode-Problem/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/harshit5123/Leetcode-Problem/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
