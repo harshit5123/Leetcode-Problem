@@ -1,21 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string res = "";
-        for (char ch : s) {
-            if (isalnum(ch)) {
-                res += tolower(ch);
-            }
-        }
-        cout << res<<" ";
         int i = 0;
-        int j = res.length() - 1;
+        int j = s.size() - 1;
+
         while (i < j) {
-            if (res[i] != res[j])
+            while (i < j && !isalnum(s[i])) i++;
+            while (i < j && !isalnum(s[j])) j--;
+
+            if (tolower(s[i]) != tolower(s[j]))
                 return false;
+
             i++;
             j--;
         }
+
         return true;
     }
 };
