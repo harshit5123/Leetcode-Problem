@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/harshit5123/Leetcode-Problem/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/harshit5123/Leetcode-Problem/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0991-broken-calculator](https://github.com/harshit5123/Leetcode-Problem/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/1323-maximum-69-number) |
 | [1399-count-largest-group](https://github.com/harshit5123/Leetcode-Problem/tree/master/1399-count-largest-group) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/harshit5123/Leetcode-Problem/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
