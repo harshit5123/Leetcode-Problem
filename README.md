@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/harshit5123/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshit5123/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshit5123/Leetcode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
