@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/harshit5123/Leetcode-Problem/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/harshit5123/Leetcode-Problem/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
