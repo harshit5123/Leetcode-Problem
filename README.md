@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1328-break-a-palindrome) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -500,5 +502,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
