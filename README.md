@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/harshit5123/Leetcode-Problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0076-minimum-window-substring) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/harshit5123/Leetcode-Problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harshit5123/Leetcode-Problem/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshit5123/Leetcode-Problem/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/harshit5123/Leetcode-Problem/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0409-longest-palindrome) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
