@@ -18,15 +18,18 @@ public:
         vector<vector<int>>dp(n+1,vector<int>(2,-1));
         return f(0,1,prices,dp);
         //tabulation
-        /*int aheadnotbuy=0; int aheadbuy=0;
+        vector<int>front2(2,0);
+        vector<int>front1(2,0);
+        vector<int>cur(2,0);
         for(int i=n-1;i>=0;i--){
-            int curbuy=max(-prices[i]+aheadnotbuy,aheadbuy);
-            int notcurbuy=max(prices[i]+aheadbuy,aheadnotbuy);
+            cur[1]=max(-prices[i]+front1[0],front1[1]);
+            cur[0]=max(prices[i]+front2[1],front1[0]);
 
-            aheadnotbuy=notcurbuy;
-            aheadbuy=curbuy;
+            front2=front1;
+            front1=cur;
         }
+        
     
-        return aheadbuy;*/
+        return cur[1];
     }
 };
