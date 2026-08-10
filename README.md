@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/harshit5123/Leetcode-Problem/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshit5123/Leetcode-Problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
