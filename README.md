@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshit5123/Leetcode-Problem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshit5123/Leetcode-Problem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/harshit5123/Leetcode-Problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/harshit5123/Leetcode-Problem/tree/master/0704-binary-search) |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
