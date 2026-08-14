@@ -27,8 +27,33 @@ public:
 
         int m = cuts.size() - 2;
 
-        vector<vector<int>> dp(m + 2, vector<int>(m + 2, -1));
+      //  vector<vector<int>> dp(m + 2, vector<int>(m + 2, -1));
 
-        return f(1, m, cuts, dp);
+      //  return f(1, m, cuts, dp);
+        // dp[i][j] = minimum cost to make cuts from i to j
+        vector<vector<int>> dp(m + 2, vector<int>(m + 2, 0));
+
+        // i must go backwards
+        for (int i = m; i >= 1; i--) {
+
+            // j goes forwards
+            for (int j = i; j <= m; j++) {
+
+                int mini = INT_MAX;
+
+                for (int ind = i; ind <= j; ind++) {
+
+                    int cost = cuts[j + 1] - cuts[i - 1]
+                             + dp[i][ind - 1]
+                             + dp[ind + 1][j];
+
+                    mini = min(mini, cost);
+                }
+
+                dp[i][j] = mini;
+            }
+        }
+
+        return dp[1][m];
     }
 };
