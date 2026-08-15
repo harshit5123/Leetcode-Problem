@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harshit5123/Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshit5123/Leetcode-Problem/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/harshit5123/Leetcode-Problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harshit5123/Leetcode-Problem/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshit5123/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
