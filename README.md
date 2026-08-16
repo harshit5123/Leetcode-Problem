@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harshit5123/Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshit5123/Leetcode-Problem/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 ## Math
@@ -562,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
