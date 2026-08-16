@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 ## Math
@@ -568,4 +569,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
