@@ -19,8 +19,8 @@ public:
         return 1+max(lh,rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        int height=0;
-        finddiameter(root,height);
-        return height;
+        int diameter=0; 
+        finddiameter(root,diameter);
+        return diameter;
     }
 };
