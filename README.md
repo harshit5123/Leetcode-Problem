@@ -588,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/0169-majority-element) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
