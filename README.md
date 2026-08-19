@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harshit5123/Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshit5123/Leetcode-Problem/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/harshit5123/Leetcode-Problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harshit5123/Leetcode-Problem/tree/master/0115-distinct-subsequences) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshit5123/Leetcode-Problem/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/harshit5123/Leetcode-Problem/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
