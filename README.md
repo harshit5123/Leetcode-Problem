@@ -595,4 +595,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
