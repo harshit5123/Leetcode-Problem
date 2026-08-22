@@ -2,7 +2,21 @@ class Solution {
 public:
     typedef pair<int,int>P;
     int longestSubarray(vector<int>& nums, int limit) {
-        priority_queue< P,vector<P>> maxq;
+        int n=nums.size();
+        multiset<int> st;
+        int l=0;
+        int r=0;
+        int maxi=0;
+        while(r<n){
+            st.insert(nums[r]);
+            if(*st.rbegin()-*st.begin()>limit){
+                st.erase(st.find(nums[l]));
+                l++;
+            }
+            maxi=max(maxi,(r-l)+1);
+            r++;
+        }
+       /* priority_queue< P,vector<P>> maxq;
         priority_queue<P,vector<P>,greater<P>> minq;
         int i=0;
         int j=0;
@@ -19,7 +33,7 @@ public:
             }
         maxi=max(maxi,(j-i)+1);
         j++;
-        }
+        }. */
         return maxi;
     }
 };
