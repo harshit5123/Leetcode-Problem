@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshit5123/Leetcode-Problem/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/harshit5123/Leetcode-Problem/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshit5123/Leetcode-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshit5123/Leetcode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshit5123/Leetcode-Problem/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/harshit5123/Leetcode-Problem/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshit5123/Leetcode-Problem/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
