@@ -14,7 +14,7 @@ public:
             total_sum += gas[i] - cost[i];
             if (total_sum < 0) {
                 total_sum = 0;
-                index = i + 1;
+                index=i+1;
             }
         }
         return index;
