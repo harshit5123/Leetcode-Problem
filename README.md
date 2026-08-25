@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/0058-length-of-last-word) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshit5123/Leetcode-Problem/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
