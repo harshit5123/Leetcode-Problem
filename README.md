@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshit5123/Leetcode-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/harshit5123/Leetcode-Problem/tree/master/0374-guess-number-higher-or-lower) |
