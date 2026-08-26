@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/harshit5123/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/harshit5123/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Queue
 |  |
 | ------- |
