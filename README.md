@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/harshit5123/Leetcode-Problem/tree/master/0997-find-the-town-judge) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/harshit5123/Leetcode-Problem/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/harshit5123/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/harshit5123/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Interactive
 |  |
@@ -727,4 +732,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
