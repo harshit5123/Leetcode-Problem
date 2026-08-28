@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshit5123/Leetcode-Problem/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshit5123/Leetcode-Problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshit5123/Leetcode-Problem/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1463-cherry-pickup-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshit5123/Leetcode-Problem/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1463-cherry-pickup-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshit5123/Leetcode-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
