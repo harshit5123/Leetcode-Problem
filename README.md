@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harshit5123/Leetcode-Problem/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/harshit5123/Leetcode-Problem/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshit5123/Leetcode-Problem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/harshit5123/Leetcode-Problem/tree/master/0312-burst-balloons) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -663,12 +666,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
