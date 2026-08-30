@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/harshit5123/Leetcode-Problem/tree/master/0997-find-the-town-judge) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/harshit5123/Leetcode-Problem/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshit5123/Leetcode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshit5123/Leetcode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshit5123/Leetcode-Problem/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshit5123/Leetcode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harshit5123/Leetcode-Problem/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshit5123/Leetcode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/harshit5123/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
