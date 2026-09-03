@@ -24,6 +24,7 @@ public:
 
                 if(isConnected[i][j] == 1 && i != j) {
                     adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
