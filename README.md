@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit5123/Leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/harshit5123/Leetcode-Problem/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1991-find-the-middle-index-in-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2256-minimum-average-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
