@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshit5123/Leetcode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
+| [3903-smallest-stable-index-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
