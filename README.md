@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/harshit5123/Leetcode-Problem/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/harshit5123/Leetcode-Problem/tree/master/0190-reverse-bits) |
 | [0324-wiggle-sort-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0324-wiggle-sort-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
