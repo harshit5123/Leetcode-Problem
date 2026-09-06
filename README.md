@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/harshit5123/Leetcode-Problem/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/harshit5123/Leetcode-Problem/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/harshit5123/Leetcode-Problem/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/harshit5123/Leetcode-Problem/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
