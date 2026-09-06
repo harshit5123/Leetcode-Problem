@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshit5123/Leetcode-Problem/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/harshit5123/Leetcode-Problem/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/harshit5123/Leetcode-Problem/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/harshit5123/Leetcode-Problem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
