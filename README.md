@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harshit5123/Leetcode-Problem/tree/master/0368-largest-divisible-subset) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshit5123/Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/harshit5123/Leetcode-Problem/tree/master/0368-largest-divisible-subset) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshit5123/Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshit5123/Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshit5123/Leetcode-Problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/harshit5123/Leetcode-Problem/tree/master/0881-boats-to-save-people) |
