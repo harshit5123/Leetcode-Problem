@@ -861,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshit5123/Leetcode-Problem/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshit5123/Leetcode-Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
