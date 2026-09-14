@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0260-single-number-iii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harshit5123/Leetcode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshit5123/Leetcode-Problem/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/harshit5123/Leetcode-Problem/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
@@ -292,12 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/harshit5123/Leetcode-Problem/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -915,4 +919,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/harshit5123/Leetcode-Problem/tree/master/1492-the-kth-factor-of-n) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
