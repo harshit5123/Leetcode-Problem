@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshit5123/Leetcode-Problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/harshit5123/Leetcode-Problem/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/harshit5123/Leetcode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/harshit5123/Leetcode-Problem/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshit5123/Leetcode-Problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/harshit5123/Leetcode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/harshit5123/Leetcode-Problem/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
