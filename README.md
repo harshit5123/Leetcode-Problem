@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/harshit5123/Leetcode-Problem/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harshit5123/Leetcode-Problem/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/harshit5123/Leetcode-Problem/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
 ## Data Stream
