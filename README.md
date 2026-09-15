@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshit5123/Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/harshit5123/Leetcode-Problem/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
