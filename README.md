@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/harshit5123/Leetcode-Problem/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshit5123/Leetcode-Problem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harshit5123/Leetcode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/harshit5123/Leetcode-Problem/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0876-middle-of-the-linked-list) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshit5123/Leetcode-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/harshit5123/Leetcode-Problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
@@ -955,4 +959,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
