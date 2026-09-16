@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/harshit5123/Leetcode-Problem/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshit5123/Leetcode-Problem/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1991-find-the-middle-index-in-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2256-minimum-average-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2256-minimum-average-difference) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshit5123/Leetcode-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/harshit5123/Leetcode-Problem/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit5123/Leetcode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshit5123/Leetcode-Problem/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Ordered Set
 |  |
 | ------- |
