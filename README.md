@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [4030-check-ascii-palindromic](https://github.com/harshit5123/Leetcode-Problem/tree/master/4030-check-ascii-palindromic) |
 ## Backtracking
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/harshit5123/Leetcode-Problem/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit5123/Leetcode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [4030-check-ascii-palindromic](https://github.com/harshit5123/Leetcode-Problem/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshit5123/Leetcode-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/harshit5123/Leetcode-Problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit5123/Leetcode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [4030-check-ascii-palindromic](https://github.com/harshit5123/Leetcode-Problem/tree/master/4030-check-ascii-palindromic) |
 ## Greedy
 |  |
 | ------- |
