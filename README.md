@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshit5123/Leetcode-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshit5123/Leetcode-Problem/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
