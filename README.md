@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/harshit5123/Leetcode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2256-minimum-average-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2256-minimum-average-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit5123/Leetcode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/harshit5123/Leetcode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2293-min-max-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/2293-min-max-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/harshit5123/Leetcode-Problem/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit5123/Leetcode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit5123/Leetcode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshit5123/Leetcode-Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1463-cherry-pickup-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit5123/Leetcode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit5123/Leetcode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit5123/Leetcode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search Tree
 |  |
 | ------- |
