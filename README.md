@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/harshit5123/Leetcode-Problem/tree/master/4024-nearest-available-drone) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/harshit5123/Leetcode-Problem/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/harshit5123/Leetcode-Problem/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -1035,4 +1036,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3525-find-x-value-of-array-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
