@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/harshit5123/Leetcode-Problem/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0856-score-of-parentheses) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/harshit5123/Leetcode-Problem/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harshit5123/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/harshit5123/Leetcode-Problem/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
