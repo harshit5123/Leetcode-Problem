@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/harshit5123/Leetcode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/harshit5123/Leetcode-Problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/harshit5123/Leetcode-Problem/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/harshit5123/Leetcode-Problem/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
