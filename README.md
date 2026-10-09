@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshit5123/Leetcode-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshit5123/Leetcode-Problem/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/harshit5123/Leetcode-Problem/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/harshit5123/Leetcode-Problem/tree/master/1328-break-a-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshit5123/Leetcode-Problem/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit5123/Leetcode-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit5123/Leetcode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit5123/Leetcode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search Tree
