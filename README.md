@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshit5123/Leetcode-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshit5123/Leetcode-Problem/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/harshit5123/Leetcode-Problem/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshit5123/Leetcode-Problem/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshit5123/Leetcode-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshit5123/Leetcode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
