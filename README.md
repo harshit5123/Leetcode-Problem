@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshit5123/Leetcode-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshit5123/Leetcode-Problem/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/harshit5123/Leetcode-Problem/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/harshit5123/Leetcode-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1073,9 +1075,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3525-find-x-value-of-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/harshit5123/Leetcode-Problem/tree/master/4062-transform-array-using-pair-operations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
