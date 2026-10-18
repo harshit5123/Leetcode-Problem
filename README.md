@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshit5123/Leetcode-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/harshit5123/Leetcode-Problem/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit5123/Leetcode-Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/harshit5123/Leetcode-Problem/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshit5123/Leetcode-Problem/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/harshit5123/Leetcode-Problem/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/harshit5123/Leetcode-Problem/tree/master/1927-sum-game) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/harshit5123/Leetcode-Problem/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshit5123/Leetcode-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/harshit5123/Leetcode-Problem/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/harshit5123/Leetcode-Problem/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/harshit5123/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit5123/Leetcode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -765,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/harshit5123/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit5123/Leetcode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -852,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/harshit5123/Leetcode-Problem/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/0324-wiggle-sort-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshit5123/Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -949,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshit5123/Leetcode-Problem/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit5123/Leetcode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Ordered Set
 |  |
@@ -991,12 +998,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshit5123/Leetcode-Problem/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimax
 |  |
 | ------- |
@@ -1017,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshit5123/Leetcode-Problem/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Database
 |  |
 | ------- |
@@ -1092,4 +1102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
