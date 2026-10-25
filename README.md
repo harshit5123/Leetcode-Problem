@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshit5123/Leetcode-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/harshit5123/Leetcode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/harshit5123/Leetcode-Problem/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/harshit5123/Leetcode-Problem/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1463-cherry-pickup-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshit5123/Leetcode-Problem/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshit5123/Leetcode-Problem/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit5123/Leetcode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshit5123/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/harshit5123/Leetcode-Problem/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit5123/Leetcode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
@@ -1017,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/harshit5123/Leetcode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshit5123/Leetcode-Problem/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimax
 |  |
