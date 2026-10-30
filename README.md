@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4030-check-ascii-palindromic](https://github.com/harshit5123/Leetcode-Problem/tree/master/4030-check-ascii-palindromic) |
 ## Backtracking
 |  |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshit5123/Leetcode-Problem/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/harshit5123/Leetcode-Problem/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/harshit5123/Leetcode-Problem/tree/master/1791-find-center-of-star-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshit5123/Leetcode-Problem/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit5123/Leetcode-Problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
 |  |
 | ------- |
@@ -1132,4 +1135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshit5123/Leetcode-Problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
