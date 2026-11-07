@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2498-frog-jump-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshit5123/Leetcode-Problem/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2747-count-zero-request-servers](https://github.com/harshit5123/Leetcode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshit5123/Leetcode-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2747-count-zero-request-servers](https://github.com/harshit5123/Leetcode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit5123/Leetcode-Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshit5123/Leetcode-Problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshit5123/Leetcode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2747-count-zero-request-servers](https://github.com/harshit5123/Leetcode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/harshit5123/Leetcode-Problem/tree/master/2784-check-if-array-is-good) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/harshit5123/Leetcode-Problem/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/harshit5123/Leetcode-Problem/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/harshit5123/Leetcode-Problem/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2747-count-zero-request-servers](https://github.com/harshit5123/Leetcode-Problem/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
 | ------- |
