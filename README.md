@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshit5123/Leetcode-Problem/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1267-count-servers-that-communicate](https://github.com/harshit5123/Leetcode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshit5123/Leetcode-Problem/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshit5123/Leetcode-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/harshit5123/Leetcode-Problem/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit5123/Leetcode-Problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/harshit5123/Leetcode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1463-cherry-pickup-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit5123/Leetcode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harshit5123/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/harshit5123/Leetcode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/harshit5123/Leetcode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1399-count-largest-group](https://github.com/harshit5123/Leetcode-Problem/tree/master/1399-count-largest-group) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/harshit5123/Leetcode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshit5123/Leetcode-Problem/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshit5123/Leetcode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit5123/Leetcode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -833,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/harshit5123/Leetcode-Problem/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshit5123/Leetcode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshit5123/Leetcode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit5123/Leetcode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1057,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshit5123/Leetcode-Problem/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/harshit5123/Leetcode-Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshit5123/Leetcode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit5123/Leetcode-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit5123/Leetcode-Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
