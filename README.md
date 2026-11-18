@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/harshit5123/Leetcode-Problem/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit5123/Leetcode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/harshit5123/Leetcode-Problem/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshit5123/Leetcode-Problem/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshit5123/Leetcode-Problem/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/2949-count-beautiful-substrings-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshit5123/Leetcode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
