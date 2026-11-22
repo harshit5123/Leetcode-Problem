@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/harshit5123/Leetcode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshit5123/Leetcode-Problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/harshit5123/Leetcode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshit5123/Leetcode-Problem/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshit5123/Leetcode-Problem/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshit5123/Leetcode-Problem/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshit5123/Leetcode-Problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
